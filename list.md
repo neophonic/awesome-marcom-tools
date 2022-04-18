@@ -10,3 +10,9 @@ Pretty useful service for text analysis. You can brainstorm, import data sets or
 
 ### [Directus](https://github.com/directus)
 I love Directus because of its flexibility & ability to help us generate massive amounts of semi-customized landing pages and content elements across the website.
+
+## Information Management
+
+### [Infranodus](https://github.com/noduslabs/infranodus)
+
+### [Obsidian](https://obsidian.md)
