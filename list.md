@@ -4,7 +4,7 @@ List of marcom tools and resources (both opensource and proprietary) I love to u
 ## Research Tools
 
 ### [Infranodus](https://github.com/noduslabs/infranodus)
-Pretty useful service for text analysis. You can brainstorm, import data sets or explore public documents and topic discourse using Infranodus. Available on GitHub & as a paid SaaS.
+Pretty useful service for text analysis. You can brainstorm, import data sets or explore public documents and topic discourse using Infranodus. Available on GitHub & as a paid SaaS. 
 
 ## Content Management Systems
 
@@ -12,7 +12,5 @@ Pretty useful service for text analysis. You can brainstorm, import data sets or
 I love Directus because of its flexibility & ability to help us generate massive amounts of semi-customized landing pages and content elements across the website.
 
 ## Information Management
-
-### [Infranodus](https://github.com/noduslabs/infranodus)
 
 ### [Obsidian](https://obsidian.md)
